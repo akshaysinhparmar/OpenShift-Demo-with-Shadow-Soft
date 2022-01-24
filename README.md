@@ -27,29 +27,29 @@ Kuberneters is open-source system for
     - Provision Infrastructure
   #### Deploy
     - Identity & Security Access
-    - APp Monitoring and alerts
+    - App Monitoring and alerts
     - Storage and persistence
     - Egress, Ingress and Integration
     - Host container images
     - Build/Deploy Methodology
  #### Harden
-  - platform monotoring and alerts
-  - Meeting and chargeback
-  - platform security hardening
-  - image Hardening
-  - security certification
-  - network policy
-  - disaster Recovery
-  - Resource Segmentation
+    - Platform monotoring and alerts
+    - Meeting and chargeback
+    - platform security hardening
+    - image Hardening
+    - security certification
+    - network policy
+    - disaster Recovery
+    - Resource Segmentation
 #### Operate
-  - OS upgrade and patch
-  - Platform upgrade and patch 
-  - Image upgrade and patch
-  - App upgrade and patch
-  - security patch
-  - Continuos security patch
-  - multi-environment rollout
-  - enterprise container registry
-  - cluster and app elasicity
-  - monitoer, alert, remediate
-  - log aggregation
+    - OS upgrade and patch
+    - Platform upgrade and patch 
+    - Image upgrade and patch
+    - App upgrade and patch
+    - security patch
+    - Continuos security patch
+    - multi-environment rollout
+    - enterprise container registry
+    - cluster and app elasicity
+    - monitoer, alert, remediate
+    - log aggregation
