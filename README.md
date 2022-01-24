@@ -29,7 +29,7 @@ Kuberneters is open-source system for
     - Identity & Security Access
     - APp Monitoring and alerts
     - Storage and persistence
-    Egress, Ingress and Integration
+    - Egress, Ingress and Integration
     - Host container images
     - Build/Deploy Methodology
  #### Harden
